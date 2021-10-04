@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Genarel Education",
+    "course": "05 Courses",
+    "semester": "8 semester",
+    "cost": "5 lakh",
+    "img": "https://keenitsolutions.com/products/html/educavo/assets/images/subject/icons/2.png"
+  },
+  {
+    "name": "Computer Science",
+    "course": "02 Courses",
+    "semester": "8 semester",
+    "cost": "7 lakh",
+    "img": "https://keenitsolutions.com/products/html/educavo/assets/images/subject/icons/1.png"
+  },
+  {
+    "name": "Civil Engineering",
+    "course": "06 Courses",
+    "semester": "8 semester",
+    "cost": "4 lakh",
+    "img": "https://keenitsolutions.com/products/html/educavo/assets/images/subject/icons/3.png"
+  },
+  {
+    "name": "Arthificial Intelligence",
+    "course": "03 Courses",
+    "semester": "8 semester",
+    "cost": "9 lakh",
+    "img": "https://keenitsolutions.com/products/html/educavo/assets/images/subject/icons/4.png"
+  },
+  {
+    "name": "Business Studies",
+    "course": "02 Courses",
+    "semester": "8 semester",
+    "cost": "6 lakh",
+    "img": "https://keenitsolutions.com/products/html/educavo/assets/images/subject/icons/5.png"
+  },
+  {
+    "name": "Web Devolopment",
+    "course": "07 Courses",
+    "semester": "6 semester",
+    "cost": "4 lakh",
+    "img": "https://keenitsolutions.com/products/html/educavo/assets/images/subject/icons/6.png"
+  },
+  {
+    "name": "Bioinformatics",
+    "course": "01 Courses",
+    "semester": "8 semester",
+    "cost": "10 lakh",
+    "img": "https://image.freepik.com/free-vector/studying-concept-illustration_114360-1301.jpg"
+  },
+  {
+    "name": "Interior Design",
+    "course": "05 Courses",
+    "semester": "6 semester",
+    "cost": "2 lakh",
+    "img": "https://image.freepik.com/free-vector/learning-concept-illustration_114360-3454.jpg"
+  },
+  {
+    "name": "Hospital Management",
+    "course": "06 Courses",
+    "semester": "6 semester",
+    "cost": "4 lakh",
+    "img": "https://image.freepik.com/free-vector/student-guy-studying-internet-watching-online-lecture-computer-talking-math-tutor-through-video-call-cartoon-illustration_74855-14524.jpg"
+  },
+  {
+    "name": "Robotics & 3D Printing",
+    "course": "05 Courses",
+    "semester": "6 semester",
+    "cost": "5 lakh",
+    "img": "https://image.freepik.com/free-vector/student-with-laptop-studying-online-course_74855-5293.jpg"
+  }
+]

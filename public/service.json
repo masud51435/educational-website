@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Genarel Education",
+    "course": "05 Courses",
+    "semester": "8 semester",
+    "cost": "5 lakh",
+    "img": "https://keenitsolutions.com/products/html/educavo/assets/images/subject/icons/2.png"
+  },
+  {
+    "name": "Computer Science",
+    "course": "02 Courses",
+    "semester": "8 semester",
+    "cost": "7 lakh",
+    "img": "https://keenitsolutions.com/products/html/educavo/assets/images/subject/icons/1.png"
+  },
+  {
+    "name": "Civil Engineering",
+    "course": "06 Courses",
+    "semester": "8 semester",
+    "cost": "4 lakh",
+    "img": "https://keenitsolutions.com/products/html/educavo/assets/images/subject/icons/3.png"
+  },
+  {
+    "name": "Arthificial Intelligence",
+    "course": "03 Courses",
+    "semester": "8 semester",
+    "cost": "9 lakh",
+    "img": "https://keenitsolutions.com/products/html/educavo/assets/images/subject/icons/4.png"
+  },
+  {
+    "name": "Business Studies",
+    "course": "02 Courses",
+    "semester": "8 semester",
+    "cost": "6 lakh",
+    "img": "https://keenitsolutions.com/products/html/educavo/assets/images/subject/icons/5.png"
+  },
+  {
+    "name": "Web Devolopment",
+    "course": "07 Courses",
+    "semester": "6 semester",
+    "cost": "4 lakh",
+    "img": "https://keenitsolutions.com/products/html/educavo/assets/images/subject/icons/6.png"
+  }
+]

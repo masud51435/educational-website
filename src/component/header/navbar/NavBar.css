@@ -1,0 +1,10 @@
+.nav{
+  background-color: rgba(255, 255, 255, 0.205);
+}
+.nav-text{
+  margin: 5px;
+  font-weight: bold;
+  color: #000000;
+  font-size: 20px;
+}
+

@@ -1,0 +1,16 @@
+.main{
+  border: 2px solid rgb(255, 255, 255);
+  padding: 20px;
+  margin: 70px;
+  border-radius: 15px;
+  background: #fbf8cc;
+  box-shadow: 2px 2px 2px  #b9bbabab;
+}
+.others{
+  border: 2px solid rgb(255, 255, 255);
+  padding: 20px;
+  margin: 70px;
+  border-radius: 15px;
+  background: #dcf1fd;
+  box-shadow: 2px 2px 2px  #b9bbabab;
+}
